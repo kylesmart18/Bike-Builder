@@ -1,0 +1,9 @@
+santacruzblur,5131,6000,inine,foxfloat32,enveM525,santacruzblur
+specializestumpjumper,4900,6300,inine,foxfloat32,inineULTRALITE,specializestumpjumper
+bikei,5231,6900,dtswiss,foxfloat32,enveM525,santacruzblur
+evilcalling,5643,5900,dtswiss,foxfloat34,enveM640,evilcalling
+transitionscout,5700,6000,dtswiss,foxfloat34,kappius,transitionscout
+bikec,5950,6825,inine,foxfloat34,kappius,evilcalling
+santacruznomad,7362,6500,chrisking,foxfloat36,enveM930,santacruznomad
+ibisripmo,7262,6400,shimano,rockshoxpike,enveM930,ibisripmo
+bikef,7162,7200,dtswiss,rockshoxpike,enveM930,ibisripmo

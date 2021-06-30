@@ -1,0 +1,5 @@
+kyle:santacruzblur,ibisripmo,bikei,bikec
+sam:ibisripmo,santacruzblur,evilcalling
+bill:specializestumpjumper,transitionscout
+zack:transitionscout,santacruzblur
+joe:bikef
